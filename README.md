@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on making small fun apps and  improving my DSA skills.
 - 🌱 I’m currently learning OpenGL, Fog Computing and NLP.
 - 🏋️‍ I’m looking to collaborate on **Android (Java, Kotlin)** , **Cross Platform (Flutter)** or **Python** Projects and I am willing to learn any new framework or language.
-- 🤔 I’m looking for help with **App Development, Fog Computing, Python, Java and Placement Preparation** 👨‍💻
 - 💬 Talk to me about **Apps, Web Projects, Art, Music Production and Non-Fiction Novels** 🌃
 - 📫 How to reach me: ![https://www.linkedin.com/in/sanket099](https://www.linkedin.com/in/sanket099)
 - ⚡ If someone is interested in art , here's something ![https://www.instagram.com/san_artworks/](https://www.instagram.com/san_artworks/) :)
