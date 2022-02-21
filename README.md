@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a Mobile Developer working remotely from Delhi, India. 
+#### I'm a Mobile Developer working remotely from India. 
  I have extensive experience in creating and deploying apps. I like to build products which have a positive impact on people. I am keen to learn any and every new tech and build as many projects as I can. My obsession with creating stuff is borderline uncomfortable.
 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket099&count_private=true)
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/sanket099" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sanket099" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/san_artworks" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href = "https://sinhasanket099.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
